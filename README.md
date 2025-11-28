@@ -47,3 +47,6 @@ This project uses PaddleOCR-VL to perform OCR on the first 2 pages of the "Atten
 - `index.html` - Web page displaying results
 - `output.md` - OCR results in markdown format
 - `.github/workflows/deploy.yml` - GitHub Pages deployment workflow
+
+
+# ernie-paddlevl
